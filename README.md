@@ -69,9 +69,6 @@ BankSystem/
 
 ## 📌 今後の改善点（任意）
 
-- ファイル保存による残高の永続化
-- 複数アカウント対応
-- GUI化（JavaFX や Swing を使用）
 - Webアプリケーションへの拡張（Spring Boot など）
 
 ---
