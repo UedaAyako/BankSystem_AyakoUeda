@@ -1,21 +1,27 @@
-# プロジェクト名
-概要説明・画像やGIF付きで視覚的に！
+# 💰 BankSystem
 
-## 実装機能
-- 機能1
-- 機能2
+Java で構築したシンプルな銀行システムです。  
+ユーザーはIDとパスワードでログインし、入出金操作を通じて残高の確認を行うことができます。  
+例外処理により、誤操作時にも安全に処理が行われるよう設計されています。
 
-## 使用技術
-- Frontend: React, TypeScript
-- Backend: Node.js, Express
-- DB: PostgreSQL
-- デプロイ: Vercel
+![BankSystem Demo](https://via.placeholder.com/800x400?text=BankSystem+Demo)
+<!-- 実行画面のスクリーンショットやGIFに差し替えてください -->
 
-## 工夫した点
-課題・工夫・解決方法など
+---
 
-## デモ
-![demo](demo.gif)
-[ライブURL](https://example.com)
+## 🔧 実装機能
 
-## セットアップ方法
+- ✅ ログイン機能（ID・パスワード認証）
+- 💵 入金機能
+- 💸 出金機能
+- 🧾 残高の確認
+- ⚠️ 不正操作時の例外処理（例：パスワード不一致、残高不足、無効な金額入力など）
+
+---
+
+## 🛠 使用技術
+
+- **Language**: Java 17
+- **IDE**: Eclipse
+- **ビルド/実行**: コマンドライン / Eclipse の実行機能
+- **構成**:  
