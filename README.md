@@ -21,14 +21,15 @@ Java で構築したシンプルな銀行システムです。
 - **Language**: Java 17
 - **IDE**: Eclipse
 - **ビルド/実行**: コマンドライン / Eclipse の実行機能
-- **構成**:  
+- **構成**:
+<pre>
 BankSystem/
 ├── src/
 ├── main/
 │ └── Main.java
 └── bankAccount/
-└── BankAccount.java
-
+　└── BankAccount.java
+</pre>
 
 ---
 
